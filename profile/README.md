@@ -19,6 +19,6 @@ Vee: Vehicle Management is an application on Android platform used for giving a 
 ## Repositories
 - [Vee-Mobile](https://github.com/C22-PS001-Capstone/Vee-Mobile)
 - [Vee-API](https://github.com/C22-PS001-Capstone/Vee-API)
-- [Vee-Machine-Learning](https://github.com/C22-PS001-Capstone/Vee-Machine-Learning)
 - [Vee-ML-Deployment](https://github.com/C22-PS001-Capstone/Vee-ML-Deployment)
+- [Vee-Machine-Learning](https://github.com/C22-PS001-Capstone/Vee-Machine-Learning)
 
