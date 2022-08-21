@@ -9,7 +9,6 @@ Vee: Vehicle Management is an application on Android platform used for giving a 
 - Other functionalities to build Vee become a vehicle management superapp
 
 ## Our Team
-- [(ML) M2012G1266 - Muchlis Aryomukti - Universitas Telkom ](mailto:M2012G1266@bangkit.academy.com)
 - [(ML) M2012F1194 - Yunindya Dwi Anugrah  - Universitas Telkom](mailto:M2012F1194@bangkit.academy.com)
 - [(MD) A2271F2353 - Alexander Bryan Wiratman - Universitas Multimedia Nusantara Jakarta](mailto:A2271F2353@bangkit.academy.com)
 - [(MD) A2271F2355 - Reza Juliandri - Universitas Multimedia Nusantara Jakarta](mailto:A2271F2355@bangkit.academy.com)
